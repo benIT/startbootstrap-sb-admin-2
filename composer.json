@@ -1,3 +1,5 @@
 {
-    "name": "benit/startbootstrap-sb-admin-2"
+    "name": "benit/startbootstrap-sb-admin-2",
+    "description": "A composer package for startbootstrap-sb-admin-2, see https://github.com/benit/startbootstrap-sb-admin-2, forked from https://github.com/IronSummitMedia/startbootstrap-sb-admin-2",
+    "type": "library"
 }
